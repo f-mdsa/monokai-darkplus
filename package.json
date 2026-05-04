@@ -1,0 +1,47 @@
+{
+  "name": "monokai-darkplus",
+  "displayName": "Monokai Dark+",
+  "description": "A combination of the classic Monokai theme with the default Visual Studio Code Dark+ theme.",
+  "version": "1.0.0",
+  "author": "Filipe Andrade (https://codeberg.org/f-mdsa)",
+  "icon": "images/monokai_vscode.png",
+  "keywords": [
+    "monokai",
+    "darkplus",
+    "dark+",
+    "monokai_vscode",
+    "monokaidark",
+    "highcontrast"
+  ],
+  "publisher": "f-mdsa",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/f-mdsa/monokai-darkplus"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai DarkPlus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-DarkPlus-color-theme.json"
+      },
+      {
+        "label": "Monokai DarkPlus Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-DarkPlusModern-color-theme.json"
+      },
+      {
+        "label": "Monokai DarkPlus HighContrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Monokai-DarkPlus-HighContrast-color-theme.json"
+      }
+    ]
+  },
+  "license": "AGPL-3.0-or-later"
+}
