@@ -2,7 +2,7 @@
   "name": "monokai-darkplus",
   "displayName": "Monokai Dark+",
   "description": "A combination of the classic Monokai theme with the default Visual Studio Code Dark+ theme.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "Filipe Andrade (https://github.com/f-mdsa)",
   "icon": "images/monokai_vscode.png",
   "keywords": [
