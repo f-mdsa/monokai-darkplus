@@ -15,6 +15,4 @@ A combination of the classic Monokai theme with the default Visual Studio Code D
 
 ---
 
-Not planning on making a light theme any time soon.
-
 Check [extras](./extras/) for more!
