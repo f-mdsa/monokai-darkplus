@@ -1,4 +1,4 @@
-# Monokai Dark+ for Code - OSS based IDEs
+# Monokai Dark+ for Visual Studio Code
 
 A combination of the classic Monokai theme with the default Visual Studio Code Dark+ theme.
 
@@ -12,7 +12,3 @@ A combination of the classic Monokai theme with the default Visual Studio Code D
 
 - The original Monokai Theme
 - The original Visual Studio Code Theme
-
----
-
-Check [extras](./extras/) for more!

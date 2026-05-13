@@ -2,8 +2,8 @@
   "name": "monokai-darkplus",
   "displayName": "Monokai Dark+",
   "description": "A combination of the classic Monokai theme with the default Visual Studio Code Dark+ theme.",
-  "version": "1.0.4",
-  "author": "Filipe Andrade (https://github.com/f-mdsa)",
+  "version": "1.0.0",
+  "author": "Filipe Andrade",
   "icon": "images/monokai_vscode.png",
   "keywords": [
     "monokai",
@@ -13,10 +13,10 @@
     "monokaidark",
     "highcontrast"
   ],
-  "publisher": "f-mdsa",
+  "publisher": "filipeyay",
   "repository": {
     "type": "git",
-    "url": "https://github.com/f-mdsa/monokai-darkplus"
+    "url": "https://github.com/filipeyay/monokai-darkplus"
   },
   "engines": {
     "vscode": "^1.93.0"
